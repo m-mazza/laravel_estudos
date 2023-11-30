@@ -15,7 +15,7 @@
 Esse repositório é destinado para o estudo do framework de PHP: Laravel
 
 ## Tecnologias
-Durante o desenvolvimento do estudo e do projeto proposto por curso, as liguagens abaixo também estarão em envidencia.
+Durante o desenvolvimento do estudo e do projeto proposto por curso, as liguagens abaixo também estarão em envidência.
 <div>
   <!-- HTML 5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
