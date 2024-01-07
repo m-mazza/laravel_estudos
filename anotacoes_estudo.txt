@@ -1,4 +1,7 @@
-
+// Route::get('produtos', [MeuControlador::class, 'produtos']);
+// Route::get('nome', [MeuControlador::class, 'getNome']);
+// Route::get('idade', [MeuControlador::class, 'getIdade']);
+// Route::get('multiplicar/{n1}/{n2}', [MeuControlador::class, 'multiplicar']);
 
 // criando rota e passando parâmetros
 // nome da rota (/teste) recebendo parâmetro {$nome}
